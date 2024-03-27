@@ -1,0 +1,28 @@
+{
+  "coverage": {
+    "threshold": 95,
+    "score": 40
+  },
+  "tests": [
+    {
+      "name": "BoxContainer",
+      "score": 20
+    },
+    {
+      "name": "Circle",
+      "score": 15
+    },
+    {
+      "name": "ShapeHelper",
+      "score": 0
+    },
+    {
+      "name": "GraphicSystem",
+      "score": 50
+    },
+    {
+      "name": "Square",
+      "score": 15
+    }
+  ]
+}
